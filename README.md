@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xavier Martin</h1>
 <h3 align="center">𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 and 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝘃𝗶𝘀𝗶𝗼𝗻 enthousiast, experimenting with 𝗻𝗲𝘂𝗿𝗮𝗹 𝗻𝗲𝘁𝘄𝗼𝗿𝗸, electronics and generative art.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaviave" alt="xaviave" /></a> </p>
-
 - 📫 How to reach me **xaviermartin.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
